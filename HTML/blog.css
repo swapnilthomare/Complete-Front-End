@@ -1,0 +1,13 @@
+P {
+    color: white;
+    background-color: black;
+}
+body{
+    background-color: black;
+}
+h1{
+    font-size: medium;
+}
+h4{
+    text-transform: uppercase ;
+}
