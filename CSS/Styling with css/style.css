@@ -1,5 +1,16 @@
 #div1{
-    height: 200px;
-    width: 200px;
+    height: 4rem;
+    /* 100vh; */
+    /* 200px; */
+    width: 2rem;
+    /* 200px; */
     background-color: red;
+    /* rgba(25,125,200,1) */
+    /* rgb(25,125,200,1) */
+}
+
+#div2{
+    height: 50%;
+    width: 50%;
+    background-color: rgb(56, 222, 222);
 }
